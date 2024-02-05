@@ -1,0 +1,27 @@
+Title: Time Series Analysis of Unemployment by Gender Using Tableau
+
+Introduction:
+This report presents a time series analysis of unemployment rates segmented by gender over a period from 2005 to 2015. The data is visualized using Tableau to showcase trends and provide insights into how unemployment has evolved differently for men and women over the years.
+
+Data Preparation:
+The data set includes monthly records of unemployed individuals categorized by age, gender, and the period of unemployment. For this analysis, we focus on the 'Unemployed' measure across the 'Period' dimension, with a gender breakdown.
+
+Visualization Process:
+
+Time Series Creation:
+
+A time series graph is plotted with 'Period' on the x-axis, displaying the timeline from 2005 to 2015, and 'SUM(Unemployed)' on the y-axis, representing the total count of unemployed individuals.
+The 'MONTH' function is applied to the 'Period' dimension to granulate the data into monthly intervals for a more detailed analysis.
+Gender Segmentation:
+
+The 'Gender' field is utilized as a color mark to differentiate between male and female data points, providing a clear visual distinction in the trends. This allows for an immediate comparison of unemployment rates between genders over time.
+Customization of Marks:
+
+Custom shapes are assigned to each gender to further enhance the distinction: circles for men and diamonds for women. The size and color intensity vary with the aggregated sum of unemployed individuals, making significant data points stand out.
+Analysis:
+
+The visualization reveals the seasonality in unemployment rates with peaks and troughs corresponding to economic cycles.
+A noticeable disparity between genders is observed, particularly during certain years where economic events may have affected men and women differently.
+Conclusion:
+The time series analysis in Tableau provides valuable insights into the unemployment trend and its nuances by gender. It highlights the importance of considering demographic factors in economic studies and can serve as a basis for further socio-economic research.
+
