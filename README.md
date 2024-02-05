@@ -6,3 +6,6 @@
 3.Summary Overview: This would be a more condensed approach where you provide an overview of each visualization, perhaps with some key insights or learnings, and then provide the entire Tableau file for download. This allows users to explore the visualizations interactively in Tableau.
 
 4.Entire File Upload: Simply uploading the entire Tableau workbook file (.twbx) could be beneficial for users who already have some proficiency with Tableau and can navigate through the workbook on their own.
+
+# 1 MODULE :
+--TIME SERIES -- AGGREGATION --FUILTER
