@@ -1,4 +1,4 @@
-#Welcome to the Tableau Learning Hub
+# Welcome to the Tableau Learning Hub
 This GitHub repository is a living resource for all things Tableau. 
 Whether you are starting your data journey or looking to refine your visualization skills, this is the place for you. 
 We'll be regularly adding new modules, complete with screenshots and guides, to help you become a Tableau expert.
