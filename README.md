@@ -7,3 +7,6 @@ We'll be regularly adding new modules, complete with screenshots and guides, to 
 --TIME SERIES -- AGGREGATION --FUILTER
 # 2 MODULE :
 --MAPS -- SCATTEPLOTS -- 1ST DASHBOARD
+# 3 MODULE :
+--JOIN---BLENDING---DUAL AXIS
+
