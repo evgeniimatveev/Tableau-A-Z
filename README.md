@@ -9,4 +9,6 @@ We'll be regularly adding new modules, complete with screenshots and guides, to 
 --MAPS -- SCATTEPLOTS -- 1ST DASHBOARD
 # 3 MODULE :
 --JOIN---BLENDING---DUAL AXIS
+# 4 MODULE :
+--TABLE CONCULATIONS---ADVANCED DASHBOARD---
 
