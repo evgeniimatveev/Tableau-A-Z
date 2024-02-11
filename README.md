@@ -11,4 +11,6 @@ We'll be regularly adding new modules, complete with screenshots and guides, to 
 --JOIN---BLENDING---DUAL AXIS
 # 4 MODULE :
 --TABLE CONCULATIONS---ADVANCED DASHBOARD---
+# 5 MODULE :
+--DATA PREPARATION ---
 
