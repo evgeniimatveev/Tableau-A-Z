@@ -13,4 +13,7 @@ We'll be regularly adding new modules, complete with screenshots and guides, to 
 --TABLE CONCULATIONS---ADVANCED DASHBOARD---
 # 5 MODULE :
 --DATA PREPARATION ---
+# 6 MODULE :
+--CLUSTERS--DISIGN FEATERES---
+
 
